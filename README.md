@@ -11,6 +11,3 @@
 
 	npm install && npm start
 
-# Configuration
-
-Open 'gulpfile.js', and edit as you like.

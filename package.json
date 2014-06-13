@@ -1,6 +1,6 @@
 {
   "name": "lse4sketch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "LINE Stamp exporter for .sketch",
   "main": "gulpfile.js",
   "scripts": {
