@@ -9,9 +9,11 @@
 	<key>commit</key>
 	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
-	<array/>
+	<array>
+		<string>FiraSansOT</string>
+	</array>
 	<key>length</key>
-	<integer>302650</integer>
+	<integer>305281</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
